@@ -22,13 +22,13 @@
     height: auto;
 }
 .bio{
-    background-image: url("images/sky1.jpg");
+    background-image: url("sky1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .contact11{
-    background-image: url("images/sky4.jpg");
+    background-image: url("sky4.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,7 +97,7 @@ nav a:hover{
     border-radius: 100%;
 }
 .icon5{
-    background-image: url("images/open222.jpeg");
+    background-image: url("open22.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
