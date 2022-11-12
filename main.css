@@ -22,13 +22,13 @@
     height: auto;
 }
 .bio{
-    background-image: url("sky1.jpg");
+    background-image: url("images/sky1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .contact11{
-    background-image: url("sky4.jpg");
+    background-image: url("images/sky4.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -48,7 +48,11 @@
     height: 100px;
     width: 130px;
 }
-nav a{
+.nav-item{
+    display: inline;
+}
+.navbar1 a{
+    display: inline;
     padding-right: 13px;
     text-decoration: none;
     font-size: 20px;
@@ -59,6 +63,7 @@ nav a:hover{
     transition: color 350ms ease;
     color: chartreuse;
 }
+
 .name{
     font-family: 'Cookie', cursive;
     font-size: 53px;
@@ -97,7 +102,7 @@ nav a:hover{
     border-radius: 100%;
 }
 .icon5{
-    background-image: url("open22.jpeg");
+    background-image: url("images/open22.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
