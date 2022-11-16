@@ -45,23 +45,30 @@
     grid-template-rows: 100px 560px 0 0;
 }
 .navbar-brand{
-    height: 100px;
-    width: 130px;
+    height: 120px;
+    width: 290px;
 }
 .nav-item{
     display: inline;
 }
 .navbar1 a{
     display: inline;
-    padding-right: 13px;
+    padding: 6px 13px 6px 13px;
     text-decoration: none;
     font-size: 20px;
     font-weight: 600;
     color: #f5dada;
+    background-color: #34a0d3;
+    border-radius: 10px;
+    margin: 10px;
+}
+.item1 a{
+    
 }
 nav a:hover{
     transition: color 350ms ease;
-    color: chartreuse;
+    color: rgb(2, 77, 95);
+    font-size: 22px;
 }
 
 .name{
