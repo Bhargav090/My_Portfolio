@@ -37,9 +37,9 @@
 
 /* start home */
 .content {
-    margin: 90px 0 0 100px;
+    margin: 90px 0 0 140px;
     color: aliceblue;
-}
+
 .home{
     display: grid;
     grid-template-rows: 100px 560px 0 0;
