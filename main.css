@@ -225,13 +225,13 @@ ul{
 } 
 .contact a{
     text-decoration: none;
-    color: #1087ac;
+    color: #34a0d3;
     font-weight: 700;
     font-size: x-large;
 }
 .contact a:hover{
     transition: color 350ms ease;
-    color: #7ec7e9;
+    color: rgb(2, 77, 95);
 }
 .touch{
     margin-left: 100px;
