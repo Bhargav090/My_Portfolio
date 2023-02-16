@@ -37,10 +37,9 @@
 
 /* start home */
 .content {
-    margin: 90px 0 0 140px;
+    margin: 90px 0 0 60px;
     color: aliceblue;
 }
-
 .home{
     display: grid;
     grid-template-rows: 100px 560px 0 0;
@@ -59,17 +58,14 @@
     font-size: 20px;
     font-weight: 600;
     color: #f5dada;
-    background-color: #34a0d3;
     border-radius: 10px;
     margin: 10px;
 }
-.item1 a{
-    
-}
+
 nav a:hover{
     transition: color 350ms ease;
     color: rgb(2, 77, 95);
-    font-size: 22px;
+    text-decoration: underline;
 }
 
 .name{
@@ -226,20 +222,16 @@ ul{
 } 
 .contact a{
     text-decoration: none;
-    color: #34a0d3;
+    color: #1087ac;
     font-weight: 700;
     font-size: x-large;
 }
 .contact a:hover{
     transition: color 350ms ease;
-    color: rgb(2, 77, 95);
+    color: #7ec7e9;
 }
 .touch{
     margin-left: 100px;
     margin-top: 30px;
     color: #FF6F61;
 }
-
-
-
-
