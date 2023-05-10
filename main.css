@@ -15,7 +15,7 @@ body{
   color: #ffc107;
 }
 .first_div{
-    background: url("images/bg1.gif");
+    background: url("bg1.gif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -117,7 +117,7 @@ body{
   /* 2nd div */
 
   .sec_div{
-    background: url("images/flowing.gif");
+    background: url("flowing.gif");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -149,7 +149,7 @@ body{
     cursor: pointer;
   }
   .heading{
-    background: url("images/flowing.gif"), rgba(0,0,0,0.5);
+    background: url("flowing.gif"), rgba(0,0,0,0.5);
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(83, 164, 245);
@@ -364,7 +364,7 @@ body{
 /* 5th div */
 .fifth_div{
   height: 80vh;
-  background: url("images/lastgif6.gif"), rgba(0,0,0,0.4);
+  background: url("lastgif6.gif"), rgba(0,0,0,0.4);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
